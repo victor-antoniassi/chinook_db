@@ -13,7 +13,7 @@ This project is a synthetic sales data generator for the Chinook database. It's 
 
 *   Python 3.11+
 *   [uv](https://docs.astral.sh/uv/)
-*   [neonctl](https://neon.com/docs/reference/neon-cli)
+*   [Neon CLI](https://neon.com/docs/reference/neon-cli)
 *   A running instance of the [Chinook database](https://neon.com/docs/import/import-sample-data) on Neon.
 
 ## Setup
